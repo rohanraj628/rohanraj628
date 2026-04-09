@@ -8,7 +8,15 @@ Welcome to my GitHub profile! I am a Backend Developer with experience in Spring
 
 <hr>
 
-### 🛠️ Technical Skills
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,redis,aws,docker,kubernetes,terraform,jenkins,githubactions,git,kafka,idea,maven,postman" alt="My Skills" />
+  </a>
+</p>
+
+### 💻 Technical Skills Breakdown
 
 **💻 Programming & Frameworks**
 * Java 8–17, Spring Boot, Spring MVC, Spring Security, Spring Cloud, Hibernate (JPA), Feign Client, RESTful APIs, Microservices Architecture
@@ -44,7 +52,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rohanraj62805@gmail.com" target="_blank">
+  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
